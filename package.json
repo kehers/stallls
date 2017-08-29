@@ -1,0 +1,20 @@
+{
+  "name": "stallls",
+  "version": "0.0.1",
+  "description": "An ecommerce API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Opeyemi Obembe <kehers@gmail.com> (http://obem.be/opeyemi)",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "multer": "^1.3.0"
+  }
+}
